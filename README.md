@@ -1,4 +1,4 @@
-# Artifactory Docker Registry Proxy
+# Nginx Docker Container for Rancher
 
 This image configures a nginx (using confd with Rancher as backend).
 
