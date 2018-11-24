@@ -10,7 +10,7 @@ This image configures a nginx (using confd with Rancher as backend).
 version: '2'
 services:
   nginx:
-    image: intershopde/docker-nginx-rancher:nginx:1.15.6-alpine
+    image: intershopde/docker-nginx-rancher:nginx1.15.6-alpine
     stdin_open: true
     tty: true
     labels:
