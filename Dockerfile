@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-FROM nginx:1.15.6-alpine
+FROM nginx:1.15.6
 
 LABEL maintainer="https://github.com/IntershopCommunicationsAG/docker-nginx-rancher" \
       license="Apache License 2.0" \
