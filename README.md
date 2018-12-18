@@ -1,3 +1,6 @@
+ [![Docker Stars](https://img.shields.io/docker/stars/intershopde/docker-nginx-rancher.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-nginx-rancher/stars/count/) [![Docker pulls](https://img.shields.io/docker/pulls/intershopde/docker-nginx-rancher.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-nginx-rancher/)
+[![Docker Automated build](https://img.shields.io/docker/automated/intershopde/docker-nginx-rancher.svg?maxAge=2592000?style=plastic)](https://github.com/IntershopCommunicationsAG/docker-nginx-rancher/)
+
 # Nginx Docker Container for Rancher
 
 This image configures a nginx (using confd with Rancher as backend).
